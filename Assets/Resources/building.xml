@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BuildingCollection>
+  <Buildings>
+    <Building name="House_0.0">
+      <Position>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>10</Z>
+      </Position>
+    </Building>
+  </Buildings>
+</BuildingCollection>

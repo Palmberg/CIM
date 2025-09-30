@@ -1,0 +1,1100 @@
+<?xml version="1.0"?>
+<HouseCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Houses>
+    <House name="House">
+      <Position>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </Position>
+      <Rotation>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+        <W>1</W>
+      </Rotation>
+      <Floor name="Floor">
+        <Position>
+          <X>0</X>
+          <Y>-1</Y>
+          <Z>0</Z>
+        </Position>
+        <Rotation>
+          <X>-0</X>
+          <Y>-0</Y>
+          <Z>-0</Z>
+          <W>1</W>
+        </Rotation>
+        <Scale>
+          <X>10</X>
+          <Y>2</Y>
+          <Z>10</Z>
+        </Scale>
+        <Shape>
+          <Vector>
+            <X>0.5</X>
+            <Y>-0.5</Y>
+            <Z>0.5</Z>
+          </Vector>
+          <Vector>
+            <X>-0.5</X>
+            <Y>-0.5</Y>
+            <Z>0.5</Z>
+          </Vector>
+          <Vector>
+            <X>0.5</X>
+            <Y>0.5</Y>
+            <Z>0.5</Z>
+          </Vector>
+          <Vector>
+            <X>-0.5</X>
+            <Y>0.5</Y>
+            <Z>0.5</Z>
+          </Vector>
+          <Vector>
+            <X>0.5</X>
+            <Y>0.5</Y>
+            <Z>-0.5</Z>
+          </Vector>
+          <Vector>
+            <X>-0.5</X>
+            <Y>0.5</Y>
+            <Z>-0.5</Z>
+          </Vector>
+          <Vector>
+            <X>0.5</X>
+            <Y>-0.5</Y>
+            <Z>-0.5</Z>
+          </Vector>
+          <Vector>
+            <X>-0.5</X>
+            <Y>-0.5</Y>
+            <Z>-0.5</Z>
+          </Vector>
+          <Vector>
+            <X>0.5</X>
+            <Y>0.5</Y>
+            <Z>0.5</Z>
+          </Vector>
+          <Vector>
+            <X>-0.5</X>
+            <Y>0.5</Y>
+            <Z>0.5</Z>
+          </Vector>
+          <Vector>
+            <X>0.5</X>
+            <Y>0.5</Y>
+            <Z>-0.5</Z>
+          </Vector>
+          <Vector>
+            <X>-0.5</X>
+            <Y>0.5</Y>
+            <Z>-0.5</Z>
+          </Vector>
+          <Vector>
+            <X>0.5</X>
+            <Y>-0.5</Y>
+            <Z>-0.5</Z>
+          </Vector>
+          <Vector>
+            <X>0.5</X>
+            <Y>-0.5</Y>
+            <Z>0.5</Z>
+          </Vector>
+          <Vector>
+            <X>-0.5</X>
+            <Y>-0.5</Y>
+            <Z>0.5</Z>
+          </Vector>
+          <Vector>
+            <X>-0.5</X>
+            <Y>-0.5</Y>
+            <Z>-0.5</Z>
+          </Vector>
+          <Vector>
+            <X>-0.5</X>
+            <Y>-0.5</Y>
+            <Z>0.5</Z>
+          </Vector>
+          <Vector>
+            <X>-0.5</X>
+            <Y>0.5</Y>
+            <Z>0.5</Z>
+          </Vector>
+          <Vector>
+            <X>-0.5</X>
+            <Y>0.5</Y>
+            <Z>-0.5</Z>
+          </Vector>
+          <Vector>
+            <X>-0.5</X>
+            <Y>-0.5</Y>
+            <Z>-0.5</Z>
+          </Vector>
+          <Vector>
+            <X>0.5</X>
+            <Y>-0.5</Y>
+            <Z>-0.5</Z>
+          </Vector>
+          <Vector>
+            <X>0.5</X>
+            <Y>0.5</Y>
+            <Z>-0.5</Z>
+          </Vector>
+          <Vector>
+            <X>0.5</X>
+            <Y>0.5</Y>
+            <Z>0.5</Z>
+          </Vector>
+          <Vector>
+            <X>0.5</X>
+            <Y>-0.5</Y>
+            <Z>0.5</Z>
+          </Vector>
+          <Triangle trid="0" />
+          <Triangle trid="2" />
+          <Triangle trid="3" />
+          <Triangle trid="0" />
+          <Triangle trid="3" />
+          <Triangle trid="1" />
+          <Triangle trid="8" />
+          <Triangle trid="4" />
+          <Triangle trid="5" />
+          <Triangle trid="8" />
+          <Triangle trid="5" />
+          <Triangle trid="9" />
+          <Triangle trid="10" />
+          <Triangle trid="6" />
+          <Triangle trid="7" />
+          <Triangle trid="10" />
+          <Triangle trid="7" />
+          <Triangle trid="11" />
+          <Triangle trid="12" />
+          <Triangle trid="13" />
+          <Triangle trid="14" />
+          <Triangle trid="12" />
+          <Triangle trid="14" />
+          <Triangle trid="15" />
+          <Triangle trid="16" />
+          <Triangle trid="17" />
+          <Triangle trid="18" />
+          <Triangle trid="16" />
+          <Triangle trid="18" />
+          <Triangle trid="19" />
+          <Triangle trid="20" />
+          <Triangle trid="21" />
+          <Triangle trid="22" />
+          <Triangle trid="20" />
+          <Triangle trid="22" />
+          <Triangle trid="23" />
+        </Shape>
+        <Door name="Door">
+          <Position>
+            <X>0.36</X>
+            <Y>-0.25</Y>
+            <Z>-0.5</Z>
+          </Position>
+          <Rotation>
+            <X>-0</X>
+            <Y>-0</Y>
+            <Z>-0</Z>
+            <W>1</W>
+          </Rotation>
+          <Scale>
+            <X>0.1</X>
+            <Y>0.5</Y>
+            <Z>0.1</Z>
+          </Scale>
+          <Shape>
+            <Vector>
+              <X>0.5</X>
+              <Y>-0.5</Y>
+              <Z>0.5</Z>
+            </Vector>
+            <Vector>
+              <X>-0.5</X>
+              <Y>-0.5</Y>
+              <Z>0.5</Z>
+            </Vector>
+            <Vector>
+              <X>0.5</X>
+              <Y>0.5</Y>
+              <Z>0.5</Z>
+            </Vector>
+            <Vector>
+              <X>-0.5</X>
+              <Y>0.5</Y>
+              <Z>0.5</Z>
+            </Vector>
+            <Vector>
+              <X>0.5</X>
+              <Y>0.5</Y>
+              <Z>-0.5</Z>
+            </Vector>
+            <Vector>
+              <X>-0.5</X>
+              <Y>0.5</Y>
+              <Z>-0.5</Z>
+            </Vector>
+            <Vector>
+              <X>0.5</X>
+              <Y>-0.5</Y>
+              <Z>-0.5</Z>
+            </Vector>
+            <Vector>
+              <X>-0.5</X>
+              <Y>-0.5</Y>
+              <Z>-0.5</Z>
+            </Vector>
+            <Vector>
+              <X>0.5</X>
+              <Y>0.5</Y>
+              <Z>0.5</Z>
+            </Vector>
+            <Vector>
+              <X>-0.5</X>
+              <Y>0.5</Y>
+              <Z>0.5</Z>
+            </Vector>
+            <Vector>
+              <X>0.5</X>
+              <Y>0.5</Y>
+              <Z>-0.5</Z>
+            </Vector>
+            <Vector>
+              <X>-0.5</X>
+              <Y>0.5</Y>
+              <Z>-0.5</Z>
+            </Vector>
+            <Vector>
+              <X>0.5</X>
+              <Y>-0.5</Y>
+              <Z>-0.5</Z>
+            </Vector>
+            <Vector>
+              <X>0.5</X>
+              <Y>-0.5</Y>
+              <Z>0.5</Z>
+            </Vector>
+            <Vector>
+              <X>-0.5</X>
+              <Y>-0.5</Y>
+              <Z>0.5</Z>
+            </Vector>
+            <Vector>
+              <X>-0.5</X>
+              <Y>-0.5</Y>
+              <Z>-0.5</Z>
+            </Vector>
+            <Vector>
+              <X>-0.5</X>
+              <Y>-0.5</Y>
+              <Z>0.5</Z>
+            </Vector>
+            <Vector>
+              <X>-0.5</X>
+              <Y>0.5</Y>
+              <Z>0.5</Z>
+            </Vector>
+            <Vector>
+              <X>-0.5</X>
+              <Y>0.5</Y>
+              <Z>-0.5</Z>
+            </Vector>
+            <Vector>
+              <X>-0.5</X>
+              <Y>-0.5</Y>
+              <Z>-0.5</Z>
+            </Vector>
+            <Vector>
+              <X>0.5</X>
+              <Y>-0.5</Y>
+              <Z>-0.5</Z>
+            </Vector>
+            <Vector>
+              <X>0.5</X>
+              <Y>0.5</Y>
+              <Z>-0.5</Z>
+            </Vector>
+            <Vector>
+              <X>0.5</X>
+              <Y>0.5</Y>
+              <Z>0.5</Z>
+            </Vector>
+            <Vector>
+              <X>0.5</X>
+              <Y>-0.5</Y>
+              <Z>0.5</Z>
+            </Vector>
+            <Triangle trid="0" />
+            <Triangle trid="2" />
+            <Triangle trid="3" />
+            <Triangle trid="0" />
+            <Triangle trid="3" />
+            <Triangle trid="1" />
+            <Triangle trid="8" />
+            <Triangle trid="4" />
+            <Triangle trid="5" />
+            <Triangle trid="8" />
+            <Triangle trid="5" />
+            <Triangle trid="9" />
+            <Triangle trid="10" />
+            <Triangle trid="6" />
+            <Triangle trid="7" />
+            <Triangle trid="10" />
+            <Triangle trid="7" />
+            <Triangle trid="11" />
+            <Triangle trid="12" />
+            <Triangle trid="13" />
+            <Triangle trid="14" />
+            <Triangle trid="12" />
+            <Triangle trid="14" />
+            <Triangle trid="15" />
+            <Triangle trid="16" />
+            <Triangle trid="17" />
+            <Triangle trid="18" />
+            <Triangle trid="16" />
+            <Triangle trid="18" />
+            <Triangle trid="19" />
+            <Triangle trid="20" />
+            <Triangle trid="21" />
+            <Triangle trid="22" />
+            <Triangle trid="20" />
+            <Triangle trid="22" />
+            <Triangle trid="23" />
+          </Shape>
+        </Door>
+      </Floor>
+    </House>
+    <House name="House">
+      <Position>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </Position>
+      <Rotation>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+        <W>1</W>
+      </Rotation>
+      <Floor name="Floor">
+        <Position>
+          <X>0</X>
+          <Y>1</Y>
+          <Z>0</Z>
+        </Position>
+        <Rotation>
+          <X>-0</X>
+          <Y>-0</Y>
+          <Z>-0</Z>
+          <W>1</W>
+        </Rotation>
+        <Scale>
+          <X>10</X>
+          <Y>2</Y>
+          <Z>10</Z>
+        </Scale>
+        <Shape>
+          <Vector>
+            <X>0.5</X>
+            <Y>-0.5</Y>
+            <Z>0.5</Z>
+          </Vector>
+          <Vector>
+            <X>-0.5</X>
+            <Y>-0.5</Y>
+            <Z>0.5</Z>
+          </Vector>
+          <Vector>
+            <X>0.5</X>
+            <Y>0.5</Y>
+            <Z>0.5</Z>
+          </Vector>
+          <Vector>
+            <X>-0.5</X>
+            <Y>0.5</Y>
+            <Z>0.5</Z>
+          </Vector>
+          <Vector>
+            <X>0.5</X>
+            <Y>0.5</Y>
+            <Z>-0.5</Z>
+          </Vector>
+          <Vector>
+            <X>-0.5</X>
+            <Y>0.5</Y>
+            <Z>-0.5</Z>
+          </Vector>
+          <Vector>
+            <X>0.5</X>
+            <Y>-0.5</Y>
+            <Z>-0.5</Z>
+          </Vector>
+          <Vector>
+            <X>-0.5</X>
+            <Y>-0.5</Y>
+            <Z>-0.5</Z>
+          </Vector>
+          <Vector>
+            <X>0.5</X>
+            <Y>0.5</Y>
+            <Z>0.5</Z>
+          </Vector>
+          <Vector>
+            <X>-0.5</X>
+            <Y>0.5</Y>
+            <Z>0.5</Z>
+          </Vector>
+          <Vector>
+            <X>0.5</X>
+            <Y>0.5</Y>
+            <Z>-0.5</Z>
+          </Vector>
+          <Vector>
+            <X>-0.5</X>
+            <Y>0.5</Y>
+            <Z>-0.5</Z>
+          </Vector>
+          <Vector>
+            <X>0.5</X>
+            <Y>-0.5</Y>
+            <Z>-0.5</Z>
+          </Vector>
+          <Vector>
+            <X>0.5</X>
+            <Y>-0.5</Y>
+            <Z>0.5</Z>
+          </Vector>
+          <Vector>
+            <X>-0.5</X>
+            <Y>-0.5</Y>
+            <Z>0.5</Z>
+          </Vector>
+          <Vector>
+            <X>-0.5</X>
+            <Y>-0.5</Y>
+            <Z>-0.5</Z>
+          </Vector>
+          <Vector>
+            <X>-0.5</X>
+            <Y>-0.5</Y>
+            <Z>0.5</Z>
+          </Vector>
+          <Vector>
+            <X>-0.5</X>
+            <Y>0.5</Y>
+            <Z>0.5</Z>
+          </Vector>
+          <Vector>
+            <X>-0.5</X>
+            <Y>0.5</Y>
+            <Z>-0.5</Z>
+          </Vector>
+          <Vector>
+            <X>-0.5</X>
+            <Y>-0.5</Y>
+            <Z>-0.5</Z>
+          </Vector>
+          <Vector>
+            <X>0.5</X>
+            <Y>-0.5</Y>
+            <Z>-0.5</Z>
+          </Vector>
+          <Vector>
+            <X>0.5</X>
+            <Y>0.5</Y>
+            <Z>-0.5</Z>
+          </Vector>
+          <Vector>
+            <X>0.5</X>
+            <Y>0.5</Y>
+            <Z>0.5</Z>
+          </Vector>
+          <Vector>
+            <X>0.5</X>
+            <Y>-0.5</Y>
+            <Z>0.5</Z>
+          </Vector>
+          <Triangle trid="0" />
+          <Triangle trid="2" />
+          <Triangle trid="3" />
+          <Triangle trid="0" />
+          <Triangle trid="3" />
+          <Triangle trid="1" />
+          <Triangle trid="8" />
+          <Triangle trid="4" />
+          <Triangle trid="5" />
+          <Triangle trid="8" />
+          <Triangle trid="5" />
+          <Triangle trid="9" />
+          <Triangle trid="10" />
+          <Triangle trid="6" />
+          <Triangle trid="7" />
+          <Triangle trid="10" />
+          <Triangle trid="7" />
+          <Triangle trid="11" />
+          <Triangle trid="12" />
+          <Triangle trid="13" />
+          <Triangle trid="14" />
+          <Triangle trid="12" />
+          <Triangle trid="14" />
+          <Triangle trid="15" />
+          <Triangle trid="16" />
+          <Triangle trid="17" />
+          <Triangle trid="18" />
+          <Triangle trid="16" />
+          <Triangle trid="18" />
+          <Triangle trid="19" />
+          <Triangle trid="20" />
+          <Triangle trid="21" />
+          <Triangle trid="22" />
+          <Triangle trid="20" />
+          <Triangle trid="22" />
+          <Triangle trid="23" />
+        </Shape>
+        <Door name="Door">
+          <Position>
+            <X>0</X>
+            <Y>-0.25</Y>
+            <Z>-0.5</Z>
+          </Position>
+          <Rotation>
+            <X>-0</X>
+            <Y>-0</Y>
+            <Z>-0</Z>
+            <W>1</W>
+          </Rotation>
+          <Scale>
+            <X>0.1</X>
+            <Y>0.5</Y>
+            <Z>0.1</Z>
+          </Scale>
+          <Shape>
+            <Vector>
+              <X>0.5</X>
+              <Y>-0.5</Y>
+              <Z>0.5</Z>
+            </Vector>
+            <Vector>
+              <X>-0.5</X>
+              <Y>-0.5</Y>
+              <Z>0.5</Z>
+            </Vector>
+            <Vector>
+              <X>0.5</X>
+              <Y>0.5</Y>
+              <Z>0.5</Z>
+            </Vector>
+            <Vector>
+              <X>-0.5</X>
+              <Y>0.5</Y>
+              <Z>0.5</Z>
+            </Vector>
+            <Vector>
+              <X>0.5</X>
+              <Y>0.5</Y>
+              <Z>-0.5</Z>
+            </Vector>
+            <Vector>
+              <X>-0.5</X>
+              <Y>0.5</Y>
+              <Z>-0.5</Z>
+            </Vector>
+            <Vector>
+              <X>0.5</X>
+              <Y>-0.5</Y>
+              <Z>-0.5</Z>
+            </Vector>
+            <Vector>
+              <X>-0.5</X>
+              <Y>-0.5</Y>
+              <Z>-0.5</Z>
+            </Vector>
+            <Vector>
+              <X>0.5</X>
+              <Y>0.5</Y>
+              <Z>0.5</Z>
+            </Vector>
+            <Vector>
+              <X>-0.5</X>
+              <Y>0.5</Y>
+              <Z>0.5</Z>
+            </Vector>
+            <Vector>
+              <X>0.5</X>
+              <Y>0.5</Y>
+              <Z>-0.5</Z>
+            </Vector>
+            <Vector>
+              <X>-0.5</X>
+              <Y>0.5</Y>
+              <Z>-0.5</Z>
+            </Vector>
+            <Vector>
+              <X>0.5</X>
+              <Y>-0.5</Y>
+              <Z>-0.5</Z>
+            </Vector>
+            <Vector>
+              <X>0.5</X>
+              <Y>-0.5</Y>
+              <Z>0.5</Z>
+            </Vector>
+            <Vector>
+              <X>-0.5</X>
+              <Y>-0.5</Y>
+              <Z>0.5</Z>
+            </Vector>
+            <Vector>
+              <X>-0.5</X>
+              <Y>-0.5</Y>
+              <Z>-0.5</Z>
+            </Vector>
+            <Vector>
+              <X>-0.5</X>
+              <Y>-0.5</Y>
+              <Z>0.5</Z>
+            </Vector>
+            <Vector>
+              <X>-0.5</X>
+              <Y>0.5</Y>
+              <Z>0.5</Z>
+            </Vector>
+            <Vector>
+              <X>-0.5</X>
+              <Y>0.5</Y>
+              <Z>-0.5</Z>
+            </Vector>
+            <Vector>
+              <X>-0.5</X>
+              <Y>-0.5</Y>
+              <Z>-0.5</Z>
+            </Vector>
+            <Vector>
+              <X>0.5</X>
+              <Y>-0.5</Y>
+              <Z>-0.5</Z>
+            </Vector>
+            <Vector>
+              <X>0.5</X>
+              <Y>0.5</Y>
+              <Z>-0.5</Z>
+            </Vector>
+            <Vector>
+              <X>0.5</X>
+              <Y>0.5</Y>
+              <Z>0.5</Z>
+            </Vector>
+            <Vector>
+              <X>0.5</X>
+              <Y>-0.5</Y>
+              <Z>0.5</Z>
+            </Vector>
+            <Triangle trid="0" />
+            <Triangle trid="2" />
+            <Triangle trid="3" />
+            <Triangle trid="0" />
+            <Triangle trid="3" />
+            <Triangle trid="1" />
+            <Triangle trid="8" />
+            <Triangle trid="4" />
+            <Triangle trid="5" />
+            <Triangle trid="8" />
+            <Triangle trid="5" />
+            <Triangle trid="9" />
+            <Triangle trid="10" />
+            <Triangle trid="6" />
+            <Triangle trid="7" />
+            <Triangle trid="10" />
+            <Triangle trid="7" />
+            <Triangle trid="11" />
+            <Triangle trid="12" />
+            <Triangle trid="13" />
+            <Triangle trid="14" />
+            <Triangle trid="12" />
+            <Triangle trid="14" />
+            <Triangle trid="15" />
+            <Triangle trid="16" />
+            <Triangle trid="17" />
+            <Triangle trid="18" />
+            <Triangle trid="16" />
+            <Triangle trid="18" />
+            <Triangle trid="19" />
+            <Triangle trid="20" />
+            <Triangle trid="21" />
+            <Triangle trid="22" />
+            <Triangle trid="20" />
+            <Triangle trid="22" />
+            <Triangle trid="23" />
+          </Shape>
+        </Door>
+      </Floor>
+    </House>
+    <House name="House">
+      <Position>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+      </Position>
+      <Rotation>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+        <W>1</W>
+      </Rotation>
+      <Floor name="Floor">
+        <Position>
+          <X>0</X>
+          <Y>3</Y>
+          <Z>0</Z>
+        </Position>
+        <Rotation>
+          <X>-0</X>
+          <Y>-0</Y>
+          <Z>-0</Z>
+          <W>1</W>
+        </Rotation>
+        <Scale>
+          <X>10</X>
+          <Y>2</Y>
+          <Z>10</Z>
+        </Scale>
+        <Shape>
+          <Vector>
+            <X>0.5</X>
+            <Y>-0.5</Y>
+            <Z>0.5</Z>
+          </Vector>
+          <Vector>
+            <X>-0.5</X>
+            <Y>-0.5</Y>
+            <Z>0.5</Z>
+          </Vector>
+          <Vector>
+            <X>0.5</X>
+            <Y>0.5</Y>
+            <Z>0.5</Z>
+          </Vector>
+          <Vector>
+            <X>-0.5</X>
+            <Y>0.5</Y>
+            <Z>0.5</Z>
+          </Vector>
+          <Vector>
+            <X>0.5</X>
+            <Y>0.5</Y>
+            <Z>-0.5</Z>
+          </Vector>
+          <Vector>
+            <X>-0.5</X>
+            <Y>0.5</Y>
+            <Z>-0.5</Z>
+          </Vector>
+          <Vector>
+            <X>0.5</X>
+            <Y>-0.5</Y>
+            <Z>-0.5</Z>
+          </Vector>
+          <Vector>
+            <X>-0.5</X>
+            <Y>-0.5</Y>
+            <Z>-0.5</Z>
+          </Vector>
+          <Vector>
+            <X>0.5</X>
+            <Y>0.5</Y>
+            <Z>0.5</Z>
+          </Vector>
+          <Vector>
+            <X>-0.5</X>
+            <Y>0.5</Y>
+            <Z>0.5</Z>
+          </Vector>
+          <Vector>
+            <X>0.5</X>
+            <Y>0.5</Y>
+            <Z>-0.5</Z>
+          </Vector>
+          <Vector>
+            <X>-0.5</X>
+            <Y>0.5</Y>
+            <Z>-0.5</Z>
+          </Vector>
+          <Vector>
+            <X>0.5</X>
+            <Y>-0.5</Y>
+            <Z>-0.5</Z>
+          </Vector>
+          <Vector>
+            <X>0.5</X>
+            <Y>-0.5</Y>
+            <Z>0.5</Z>
+          </Vector>
+          <Vector>
+            <X>-0.5</X>
+            <Y>-0.5</Y>
+            <Z>0.5</Z>
+          </Vector>
+          <Vector>
+            <X>-0.5</X>
+            <Y>-0.5</Y>
+            <Z>-0.5</Z>
+          </Vector>
+          <Vector>
+            <X>-0.5</X>
+            <Y>-0.5</Y>
+            <Z>0.5</Z>
+          </Vector>
+          <Vector>
+            <X>-0.5</X>
+            <Y>0.5</Y>
+            <Z>0.5</Z>
+          </Vector>
+          <Vector>
+            <X>-0.5</X>
+            <Y>0.5</Y>
+            <Z>-0.5</Z>
+          </Vector>
+          <Vector>
+            <X>-0.5</X>
+            <Y>-0.5</Y>
+            <Z>-0.5</Z>
+          </Vector>
+          <Vector>
+            <X>0.5</X>
+            <Y>-0.5</Y>
+            <Z>-0.5</Z>
+          </Vector>
+          <Vector>
+            <X>0.5</X>
+            <Y>0.5</Y>
+            <Z>-0.5</Z>
+          </Vector>
+          <Vector>
+            <X>0.5</X>
+            <Y>0.5</Y>
+            <Z>0.5</Z>
+          </Vector>
+          <Vector>
+            <X>0.5</X>
+            <Y>-0.5</Y>
+            <Z>0.5</Z>
+          </Vector>
+          <Triangle trid="0" />
+          <Triangle trid="2" />
+          <Triangle trid="3" />
+          <Triangle trid="0" />
+          <Triangle trid="3" />
+          <Triangle trid="1" />
+          <Triangle trid="8" />
+          <Triangle trid="4" />
+          <Triangle trid="5" />
+          <Triangle trid="8" />
+          <Triangle trid="5" />
+          <Triangle trid="9" />
+          <Triangle trid="10" />
+          <Triangle trid="6" />
+          <Triangle trid="7" />
+          <Triangle trid="10" />
+          <Triangle trid="7" />
+          <Triangle trid="11" />
+          <Triangle trid="12" />
+          <Triangle trid="13" />
+          <Triangle trid="14" />
+          <Triangle trid="12" />
+          <Triangle trid="14" />
+          <Triangle trid="15" />
+          <Triangle trid="16" />
+          <Triangle trid="17" />
+          <Triangle trid="18" />
+          <Triangle trid="16" />
+          <Triangle trid="18" />
+          <Triangle trid="19" />
+          <Triangle trid="20" />
+          <Triangle trid="21" />
+          <Triangle trid="22" />
+          <Triangle trid="20" />
+          <Triangle trid="22" />
+          <Triangle trid="23" />
+        </Shape>
+        <Door name="Door">
+          <Position>
+            <X>-0.36</X>
+            <Y>-0.25</Y>
+            <Z>-0.5</Z>
+          </Position>
+          <Rotation>
+            <X>-0</X>
+            <Y>-0</Y>
+            <Z>-0</Z>
+            <W>1</W>
+          </Rotation>
+          <Scale>
+            <X>0.1</X>
+            <Y>0.5</Y>
+            <Z>0.1</Z>
+          </Scale>
+          <Shape>
+            <Vector>
+              <X>0.5</X>
+              <Y>-0.5</Y>
+              <Z>0.5</Z>
+            </Vector>
+            <Vector>
+              <X>-0.5</X>
+              <Y>-0.5</Y>
+              <Z>0.5</Z>
+            </Vector>
+            <Vector>
+              <X>0.5</X>
+              <Y>0.5</Y>
+              <Z>0.5</Z>
+            </Vector>
+            <Vector>
+              <X>-0.5</X>
+              <Y>0.5</Y>
+              <Z>0.5</Z>
+            </Vector>
+            <Vector>
+              <X>0.5</X>
+              <Y>0.5</Y>
+              <Z>-0.5</Z>
+            </Vector>
+            <Vector>
+              <X>-0.5</X>
+              <Y>0.5</Y>
+              <Z>-0.5</Z>
+            </Vector>
+            <Vector>
+              <X>0.5</X>
+              <Y>-0.5</Y>
+              <Z>-0.5</Z>
+            </Vector>
+            <Vector>
+              <X>-0.5</X>
+              <Y>-0.5</Y>
+              <Z>-0.5</Z>
+            </Vector>
+            <Vector>
+              <X>0.5</X>
+              <Y>0.5</Y>
+              <Z>0.5</Z>
+            </Vector>
+            <Vector>
+              <X>-0.5</X>
+              <Y>0.5</Y>
+              <Z>0.5</Z>
+            </Vector>
+            <Vector>
+              <X>0.5</X>
+              <Y>0.5</Y>
+              <Z>-0.5</Z>
+            </Vector>
+            <Vector>
+              <X>-0.5</X>
+              <Y>0.5</Y>
+              <Z>-0.5</Z>
+            </Vector>
+            <Vector>
+              <X>0.5</X>
+              <Y>-0.5</Y>
+              <Z>-0.5</Z>
+            </Vector>
+            <Vector>
+              <X>0.5</X>
+              <Y>-0.5</Y>
+              <Z>0.5</Z>
+            </Vector>
+            <Vector>
+              <X>-0.5</X>
+              <Y>-0.5</Y>
+              <Z>0.5</Z>
+            </Vector>
+            <Vector>
+              <X>-0.5</X>
+              <Y>-0.5</Y>
+              <Z>-0.5</Z>
+            </Vector>
+            <Vector>
+              <X>-0.5</X>
+              <Y>-0.5</Y>
+              <Z>0.5</Z>
+            </Vector>
+            <Vector>
+              <X>-0.5</X>
+              <Y>0.5</Y>
+              <Z>0.5</Z>
+            </Vector>
+            <Vector>
+              <X>-0.5</X>
+              <Y>0.5</Y>
+              <Z>-0.5</Z>
+            </Vector>
+            <Vector>
+              <X>-0.5</X>
+              <Y>-0.5</Y>
+              <Z>-0.5</Z>
+            </Vector>
+            <Vector>
+              <X>0.5</X>
+              <Y>-0.5</Y>
+              <Z>-0.5</Z>
+            </Vector>
+            <Vector>
+              <X>0.5</X>
+              <Y>0.5</Y>
+              <Z>-0.5</Z>
+            </Vector>
+            <Vector>
+              <X>0.5</X>
+              <Y>0.5</Y>
+              <Z>0.5</Z>
+            </Vector>
+            <Vector>
+              <X>0.5</X>
+              <Y>-0.5</Y>
+              <Z>0.5</Z>
+            </Vector>
+            <Triangle trid="0" />
+            <Triangle trid="2" />
+            <Triangle trid="3" />
+            <Triangle trid="0" />
+            <Triangle trid="3" />
+            <Triangle trid="1" />
+            <Triangle trid="8" />
+            <Triangle trid="4" />
+            <Triangle trid="5" />
+            <Triangle trid="8" />
+            <Triangle trid="5" />
+            <Triangle trid="9" />
+            <Triangle trid="10" />
+            <Triangle trid="6" />
+            <Triangle trid="7" />
+            <Triangle trid="10" />
+            <Triangle trid="7" />
+            <Triangle trid="11" />
+            <Triangle trid="12" />
+            <Triangle trid="13" />
+            <Triangle trid="14" />
+            <Triangle trid="12" />
+            <Triangle trid="14" />
+            <Triangle trid="15" />
+            <Triangle trid="16" />
+            <Triangle trid="17" />
+            <Triangle trid="18" />
+            <Triangle trid="16" />
+            <Triangle trid="18" />
+            <Triangle trid="19" />
+            <Triangle trid="20" />
+            <Triangle trid="21" />
+            <Triangle trid="22" />
+            <Triangle trid="20" />
+            <Triangle trid="22" />
+            <Triangle trid="23" />
+          </Shape>
+        </Door>
+      </Floor>
+    </House>
+  </Houses>
+</HouseCollection>

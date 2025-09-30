@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HouseCollection>
+  <House name="House">
+    <Position></Position>
+    <Rotation></Rotation>
+    <Floor name="Floor_0">
+      <LocalPosition></LocalPosition>
+      <LocalRotation></LocalRotation>
+      <Material></Material>
+      <Shape></Shape>
+      <Window name="Window_0.0">
+        <LocalPosition></LocalPosition>
+        <LocalRotation></LocalRotation>
+        <Material></Material>
+        <Shape></Shape>
+      </Window>
+      <Window name="Window_0.1">
+        <LocalPosition></LocalPosition>
+        <LocalRotation></LocalRotation>
+        <Material></Material>
+        <Shape></Shape>
+      </Window>
+      <Door name="Door_0.0">
+        <LocalPosition></LocalPosition>
+        <LocalRotation></LocalRotation>
+        <Material></Material>
+        <Shape></Shape>
+      </Door>
+    </Floor>
+    <Floor name="Floor_1">
+      <LocalPosition></LocalPosition>
+      <LocalRotation></LocalRotation>
+      <Material></Material>
+      <Shape></Shape>
+      <Window name="Window_1.0">
+        <LocalPosition></LocalPosition>
+        <LocalRotation></LocalRotation>
+        <Material></Material>
+        <Shape></Shape>
+      </Window>
+      <Window name="Window_1.1">
+        <LocalPosition></LocalPosition>
+        <LocalRotation></LocalRotation>
+        <Material></Material>
+        <Shape></Shape>
+      </Window>
+      <Window name="Window_1.2">
+        <LocalPosition></LocalPosition>
+        <LocalRotation></LocalRotation>
+        <Material></Material>
+        <Shape></Shape>
+      </Window>
+    </Floor>
+    <Floor name="Floor_2">
+      <LocalPosition></LocalPosition>
+      <LocalRotation></LocalRotation>
+      <Material></Material>
+      <Shape></Shape>
+      <Window name="Window_2.0">
+        <LocalPosition></LocalPosition>
+        <LocalRotation></LocalRotation>
+        <Material></Material>
+        <Shape></Shape>
+      </Window>
+      <Window name="Window_2.1">
+        <LocalPosition></LocalPosition>
+        <LocalRotation></LocalRotation>
+        <Material></Material>
+        <Shape></Shape>
+      </Window>
+      <Window name="Window_2.2">
+        <LocalPosition></LocalPosition>
+        <LocalRotation></LocalRotation>
+        <Material></Material>
+        <Shape></Shape>
+      </Window>
+    </Floor>
+  </House>
+</HouseCollection>

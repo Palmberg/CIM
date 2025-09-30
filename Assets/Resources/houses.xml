@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HouseCollection>
+  <Houses>
+    <House name="House">
+      <Position>
+        <X>5</X>
+        <Y>0</Y>
+        <Z>10</Z>
+      </Position>
+      <Rotation>
+        <X>0</X>
+        <Y>0</Y>
+        <Z>0</Z>
+        <W>0</W>
+      </Rotation>
+      <Floor name="Floor_0">
+        <Position>
+          <X>0</X>
+          <Y>0.5</Y>
+          <Z>0</Z>
+        </Position>
+        <Rotation>
+          <X>0</X>
+          <Y>0</Y>
+          <Z>0</Z>
+          <W>0</W>
+        </Rotation>
+        <Material></Material>
+        <Shape>
+          <Vector>
+            <X>0.50</X>
+            <Y>-0.50</Y>
+            <Z>0.50</Z>
+          </Vector>
+          <Vector>
+            <X>-0.50</X>
+            <Y>-0.50</Y>
+            <Z>0.50</Z>
+          </Vector>
+          <Vector>
+            <X>0.50</X>
+            <Y>0.50</Y>
+            <Z>0.50</Z>
+          </Vector>
+          <Vector>
+            <X>-0.50</X>
+            <Y>0.50</Y>
+            <Z>0.50</Z>
+          </Vector>
+          
+          <Vector>
+            <X>0.50</X>
+            <Y>0.50</Y>
+            <Z>-0.50</Z>
+          </Vector>
+          <Vector>
+            <X>-0.50</X>
+            <Y>0.50</Y>
+            <Z>-0.50</Z>
+          </Vector>
+          <Vector>
+            <X>0.50</X>
+            <Y>-0.50</Y>
+            <Z>-0.50</Z>
+          </Vector>
+          <Vector>
+            <X>-0.50</X>
+            <Y>-0.50</Y>
+            <Z>-0.50</Z>
+          </Vector>
+          
+          <Vector>
+            <X>0.50</X>
+            <Y>0.50</Y>
+            <Z>0.50</Z>
+          </Vector>
+          <Vector>
+            <X>-0.50</X>
+            <Y>0.50</Y>
+            <Z>0.50</Z>
+          </Vector>
+          <Vector>
+            <X>0.50</X>
+            <Y>0.50</Y>
+            <Z>-0.50</Z>
+          </Vector>
+          <Vector>
+            <X>-0.50</X>
+            <Y>0.50</Y>
+            <Z>-0.50</Z>
+          </Vector>
+          
+          <Vector>
+            <X>0.50</X>
+            <Y>-0.50</Y>
+            <Z>-0.50</Z>
+          </Vector>
+          <Vector>
+            <X>0.50</X>
+            <Y>-0.50</Y>
+            <Z>0.50</Z>
+          </Vector>
+          <Vector>
+            <X>-0.50</X>
+            <Y>-0.50</Y>
+            <Z>0.50</Z>
+          </Vector>
+          <Vector>
+            <X>-0.50</X>
+            <Y>-0.50</Y>
+            <Z>-0.50</Z>
+          </Vector>
+          
+          <Vector>
+            <X>-0.50</X>
+            <Y>-0.50</Y>
+            <Z>0.50</Z>
+          </Vector>
+          <Vector>
+            <X>-0.50</X>
+            <Y>0.50</Y>
+            <Z>0.50</Z>
+          </Vector>
+          <Vector>
+            <X>-0.50</X>
+            <Y>0.50</Y>
+            <Z>-0.50</Z>
+          </Vector>
+          <Vector>
+            <X>-0.50</X>
+            <Y>-0.50</Y>
+            <Z>-0.50</Z>
+          </Vector>
+          
+          <Vector>
+            <X>0.50</X>
+            <Y>-0.50</Y>
+            <Z>-0.50</Z>
+          </Vector>
+          <Vector>
+            <X>0.50</X>
+            <Y>0.50</Y>
+            <Z>-0.50</Z>
+          </Vector>
+          <Vector>
+            <X>0.50</X>
+            <Y>0.50</Y>
+            <Z>0.50</Z>
+          </Vector>
+          <Vector>
+            <X>0.50</X>
+            <Y>-0.50</Y>
+            <Z>0.50</Z>
+          </Vector>
+          
+          <Triangle trid="0"/>
+          <Triangle trid="2"/>
+          <Triangle trid="3"/>
+          
+          <Triangle trid="0"/>
+          <Triangle trid="3"/>
+          <Triangle trid="1"/>
+          
+          <Triangle trid="8"/>
+          <Triangle trid="4"/>
+          <Triangle trid="5"/>
+          
+          <Triangle trid="8"/>
+          <Triangle trid="5"/>
+          <Triangle trid="9"/>
+          
+          <Triangle trid="10"/>
+          <Triangle trid="6"/>
+          <Triangle trid="7"/>
+          
+          <Triangle trid="10"/>
+          <Triangle trid="7"/>
+          <Triangle trid="11"/>
+          
+          <Triangle trid="12"/>
+          <Triangle trid="13"/>
+          <Triangle trid="14"/>
+
+          <Triangle trid="12"/>
+          <Triangle trid="14"/>
+          <Triangle trid="15"/>
+
+          <Triangle trid="16"/>
+          <Triangle trid="17"/>
+          <Triangle trid="18"/>
+          
+          <Triangle trid="16"/>
+          <Triangle trid="18"/>
+          <Triangle trid="19"/>
+          
+          <Triangle trid="20"/>
+          <Triangle trid="21"/>
+          <Triangle trid="22"/>
+          
+          <Triangle trid="20"/>
+          <Triangle trid="22"/>
+          <Triangle trid="23"/>
+        </Shape>
+        <Window name="Window_0.0">
+          <Position></Position>
+          <Rotation></Rotation>
+          <Material></Material>
+          <Shape></Shape>
+        </Window>
+        <Window name="Window_0.1">
+          <Position></Position>
+          <Rotation></Rotation>
+          <Material></Material>
+          <Shape></Shape>
+        </Window>
+        <Door name="Door_0.0">
+          <Position></Position>
+          <Rotation></Rotation>
+          <Material></Material>
+          <Shape></Shape>
+        </Door>
+      </Floor>
+      
+      <Floor name="Floor_1">
+        <Position></Position>
+        <Rotation></Rotation>
+        <Material></Material>
+        <Shape></Shape>
+        <Window name="Window_1.0">
+          <Position></Position>
+          <Rotation></Rotation>
+          <Material></Material>
+          <Shape></Shape>
+        </Window>
+        <Window name="Window_1.1">
+          <Position></Position>
+          <Rotation></Rotation>
+          <Material></Material>
+          <Shape></Shape>
+        </Window>
+        <Window name="Window_1.2">
+          <Position></Position>
+          <Rotation></Rotation>
+          <Material></Material>
+          <Shape></Shape>
+        </Window>
+      </Floor>
+      <Floor name="Floor_2">
+        <Position></Position>
+        <Rotation></Rotation>
+        <Material></Material>
+        <Shape></Shape>
+        <Window name="Window_2.0">
+          <Position></Position>
+          <Rotation></Rotation>
+          <Material></Material>
+          <Shape></Shape>
+        </Window>
+        <Window name="Window_2.1">
+          <Position></Position>
+          <Rotation></Rotation>
+          <Material></Material>
+          <Shape></Shape>
+        </Window>
+        <Window name="Window_2.2">
+          <Position></Position>
+          <Rotation></Rotation>
+          <Material></Material>
+          <Shape></Shape>
+        </Window>
+      </Floor>
+    </House>
+  </Houses>
+</HouseCollection>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BuildingCollection>
+  <Buildings>
+    <Building name="House_0.0">
+      <Position>(0,0,0)</Position>
+    </Building>
+    <Building name="House_0.1">
+      <Position>(0,0,10)</Position>
+    </Building>
+    <Building name="House_1.0">
+      <Position>(10,0,0)</Position>
+    </Building>
+    <Building name="House_1.1">
+      <Position>(10,0,10)</Position>
+    </Building>
+  </Buildings>
+</BuildingCollection>
